@@ -11,7 +11,7 @@ Clone the git repository to <OPENCPN_SOURCE_TLD>/plugins/LogbookKonni_pi (the _p
 cd <OPENCPN_SOURCE_TLD>/plugins
 open a terminal here and copy/paste this command:
  
-git clone git://github.com/konnibe/LogbookKonni.git LogbookKonni_pi
+git clone git://github.com/konnibe/Logbookkonni-0.910-for-OCPN-2.5.0.git LogbookKonni_pi
 
 Run this commands:
 
